@@ -81,9 +81,12 @@ The project includes a custom **GradCAM** implementation targeting `DenseNet121`
 ```
 ├── multi-label-dl-pneumonia-effusion.ipynb   # Main notebook
 ├── README.md
+└── assets/
+    └── demo.mp4                               # demo video
 ├── .gitignore                                # Excludes .pth files from Git
 └── checkpoints/
     └── *.pth                                 # Saved model weights (not tracked by Git)
+
 ```
 
 > **Note:** Model weights (`.pth` files) are **not included** in this repository due to file size. You can train the model using the notebook or download the weights separately.
