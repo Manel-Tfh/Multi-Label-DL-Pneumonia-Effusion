@@ -134,6 +134,6 @@ Or run directly on **Kaggle** with GPU enabled (recommended).
 Copyright © 2026 **Manel Teffahi & Sara Meftah & Raida Gacemi ** — All rights reserved.
 
 This project is licensed under the **MIT License**.
-Anyone who uses or builds on this project **must keep our names** (Manel Teffahi & Sara Meftah & Raida Gaçemi ) in all copies and derivatives. Removing the copyright notice is a violation of the license.
+Anyone who uses or builds on this project **must keep our names** (Manel Teffahi & Sara Meftah & Raida Gacemi ) in all copies and derivatives. Removing the copyright notice is a violation of the license.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
