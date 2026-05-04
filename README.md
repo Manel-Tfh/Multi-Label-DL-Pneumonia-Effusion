@@ -83,6 +83,7 @@ The project includes a custom **GradCAM** implementation targeting `DenseNet121`
 ├── README.md
 └── assets/
     └── demo.mp4                               # demo video
+    └── finalpresentation.pdf                  # final presentation and business model 
 ├── .gitignore                                # Excludes .pth files from Git
 └── checkpoints/
     └── *.pth                                 # Saved model weights (not tracked by Git)
