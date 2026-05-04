@@ -119,7 +119,7 @@ Or run directly on **Kaggle** with GPU enabled (recommended).
 
 **Manel Teffahi** — [GitHub](https://github.com/Manel-Tfh)
 **Sara Meftah** — [GitHub](https://github.com/saraMeftah)
-**Gaçemi Raida**— [GitHub](https://github.com/Rayda1121)
+**Gacemi Raida**— [GitHub](https://github.com/Rayda1121)
 
 ---
 
@@ -131,7 +131,7 @@ Or run directly on **Kaggle** with GPU enabled (recommended).
 
 ## License
 
-Copyright © 2026 **Manel Teffahi & Sara Meftah & Raida Gaçemi ** — All rights reserved.
+Copyright © 2026 **Manel Teffahi & Sara Meftah & Raida Gacemi ** — All rights reserved.
 
 This project is licensed under the **MIT License**.
 Anyone who uses or builds on this project **must keep our names** (Manel Teffahi & Sara Meftah & Raida Gaçemi ) in all copies and derivatives. Removing the copyright notice is a violation of the license.
